@@ -1,0 +1,13 @@
+C:\Users\Vytautas\Documents\Visual Studio 2015\Projects\MultiThreadAssignment\MultiThreadAssignment\bin\Debug\MultiThreadAssignment.exe.config
+C:\Users\Vytautas\Documents\Visual Studio 2015\Projects\MultiThreadAssignment\MultiThreadAssignment\bin\Debug\MultiThreadAssignment.exe
+C:\Users\Vytautas\Documents\Visual Studio 2015\Projects\MultiThreadAssignment\MultiThreadAssignment\bin\Debug\MultiThreadAssignment.pdb
+C:\Users\Vytautas\Documents\Visual Studio 2015\Projects\MultiThreadAssignment\MultiThreadAssignment\obj\Debug\MultiThreadAssignment.csprojResolveAssemblyReference.cache
+C:\Users\Vytautas\Documents\Visual Studio 2015\Projects\MultiThreadAssignment\MultiThreadAssignment\obj\Debug\MultiThreadAssignment.Form.resources
+C:\Users\Vytautas\Documents\Visual Studio 2015\Projects\MultiThreadAssignment\MultiThreadAssignment\obj\Debug\MultiThreadAssignment.Properties.Resources.resources
+C:\Users\Vytautas\Documents\Visual Studio 2015\Projects\MultiThreadAssignment\MultiThreadAssignment\obj\Debug\MultiThreadAssignment.csproj.GenerateResource.Cache
+C:\Users\Vytautas\Documents\Visual Studio 2015\Projects\MultiThreadAssignment\MultiThreadAssignment\obj\Debug\MultiThreadAssignment.exe
+C:\Users\Vytautas\Documents\Visual Studio 2015\Projects\MultiThreadAssignment\MultiThreadAssignment\obj\Debug\MultiThreadAssignment.pdb
+C:\Users\Vytautas\Documents\Visual Studio 2015\Projects\MultiThreadAssignment\MultiThreadAssignment\bin\Debug\EntityFramework.dll
+C:\Users\Vytautas\Documents\Visual Studio 2015\Projects\MultiThreadAssignment\MultiThreadAssignment\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Vytautas\Documents\Visual Studio 2015\Projects\MultiThreadAssignment\MultiThreadAssignment\bin\Debug\EntityFramework.xml
+C:\Users\Vytautas\Documents\Visual Studio 2015\Projects\MultiThreadAssignment\MultiThreadAssignment\bin\Debug\EntityFramework.SqlServer.xml
